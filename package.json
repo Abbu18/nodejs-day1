@@ -1,0 +1,14 @@
+{
+  "name": "day-1",
+  "version": "1.0.0",
+  "main": "calculator.js",
+  "dependencies": {
+    "builtin-modules": "^3.3.0"
+  },
+  "scripts": {
+    "start": "node printCoreModules"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
